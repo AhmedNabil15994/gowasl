@@ -1,0 +1,15 @@
+{
+    "name": "Message",
+    "alias": "message",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Message\\Providers\\MessageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

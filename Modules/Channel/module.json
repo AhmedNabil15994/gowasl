@@ -1,0 +1,15 @@
+{
+    "name": "Channel",
+    "alias": "channel",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Channel\\Providers\\ChannelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

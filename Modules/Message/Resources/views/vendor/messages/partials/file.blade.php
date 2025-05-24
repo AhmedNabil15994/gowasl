@@ -1,0 +1,1 @@
+{!! field()->file('file',__('message::dashboard.messages.file'),(isset($model) && $model?->message_data ? $model?->message_data?->url : ''),['accept'=>".xlsx,.xls,image/*,.doc, .docx,.ppt, .pptx,.txt,.pdf",]) !!}

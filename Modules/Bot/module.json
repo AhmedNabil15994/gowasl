@@ -1,0 +1,15 @@
+{
+    "name": "Bot",
+    "alias": "bot",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Bot\\Providers\\BotServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

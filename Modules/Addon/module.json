@@ -1,0 +1,15 @@
+{
+    "name": "Addon",
+    "alias": "addon",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Addon\\Providers\\AddonServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}
